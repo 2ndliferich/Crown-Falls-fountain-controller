@@ -1,7 +1,3 @@
-Here’s a cleaned, repo-ready **README.md** that matches your code and tutorial.
-
----
-
 # Crown Falls Fountain (Horizon Worlds)
 
 A lightweight controller that animates two water streams and (optionally) plays a looped waterfall SFX.
@@ -82,5 +78,3 @@ Attach it to the fountain root, wire the props, set speeds (and reverse, if need
 
 * **License:** MIT (recommended for remix-friendly use)
 * **Credit:** 2ndLife Rich (HumAi LLC)
-
----
